@@ -1,2 +1,5 @@
-# Market-data-collection-Web-app
-CRUD NodeJS ExpressJS HTML5 CSS3
+# fp-buy-sell
+CRUD NodeJS ExpressJS PUG CSS JavaScript
+
+See demo **Read_Me.pdf**
+
